@@ -1048,8 +1048,8 @@
  	width: 0px;
  }
  .contactTable td,
- table table td.text table td,
- table table table table table td {
+ .contactTable table table td.text table td,
+ .contactTable table table table table table td {
  	width: auto;
  	display: none !important;
  	visibility: hidden!important;
