@@ -828,7 +828,7 @@
 	.standout, .strong, strong, .h1, h1, .h2, h2, .h3, h3, .h4, h4, .h5, h5, .h7, h7, .h8, h8, .lyric, lyric, .lyric2, lyric2, .lyric3, lyric3, .lyric4, lyric4, .lyric5, lyric5, #topBar .Initial .letter, #bottomBar .title, .connlinks a, .pers .mini .dot {
 	 color: #FFFFFF 
 	}
-	.profileInfo, .userProfileURL, .friendsComments, .blurbs, .friendSpace, .contactTable, .extendedNetwork, .latestBlogEntry, .interestsAndDetails, .userProfiledetail, .userAlbums, .whitetext12, .orangetext15, .lightbluetext8, .blacktext12, .navigationBar, .btext, .redlink, .redtext, .blacktext10, tr#groups, .navigationBar, .profile, table tr td[id='footerWarpper'] {
+	.profileInfo, .userProfileURL, .friendsComments, .friendSpace, .contactTable, .extendedNetwork, .latestBlogEntry, .interestsAndDetails, .userProfiledetail, .userAlbums, .whitetext12, .orangetext15, .lightbluetext8, .blacktext12, .navigationBar, .btext, .redlink, .redtext, .blacktext10, tr#groups, .navigationBar, .profile, table tr td[id='footerWarpper'] {
 	 display:none !important;
 	visibility:hidden!important;
 	}
